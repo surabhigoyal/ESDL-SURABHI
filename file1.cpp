@@ -1,6 +1,6 @@
 #include<iostream>
 int main()
 {
-cout<<"hello world";
+cout<<"cummins college";
 return 0;
 }
